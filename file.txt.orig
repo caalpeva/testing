@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-Probando cosas de git...
+Primera linea
+Testing... Segunda linea
+Tercera linea
 =======
-Testing...
->>>>>>> changes
+Esto es una prueba
+Testing... This is a test
+Cuando el oso toca el pito, perico toca el silbato.
+>>>>>>> Se modifica el file.txt en la rama changes
